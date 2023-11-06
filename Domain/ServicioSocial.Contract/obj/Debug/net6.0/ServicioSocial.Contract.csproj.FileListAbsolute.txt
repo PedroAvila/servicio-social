@@ -1,0 +1,15 @@
+D:\Varios\ServicioSocial\Domain\ServicioSocial.Contract\bin\Debug\net6.0\ServicioSocial.Contract.deps.json
+D:\Varios\ServicioSocial\Domain\ServicioSocial.Contract\bin\Debug\net6.0\ServicioSocial.Contract.dll
+D:\Varios\ServicioSocial\Domain\ServicioSocial.Contract\bin\Debug\net6.0\ServicioSocial.Contract.pdb
+D:\Varios\ServicioSocial\Domain\ServicioSocial.Contract\bin\Debug\net6.0\ServicioSocial.Entities.dll
+D:\Varios\ServicioSocial\Domain\ServicioSocial.Contract\bin\Debug\net6.0\ServicioSocial.Entities.pdb
+D:\Varios\ServicioSocial\Domain\ServicioSocial.Contract\obj\Debug\net6.0\ServicioSocial.Contract.csproj.AssemblyReference.cache
+D:\Varios\ServicioSocial\Domain\ServicioSocial.Contract\obj\Debug\net6.0\ServicioSocial.Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Varios\ServicioSocial\Domain\ServicioSocial.Contract\obj\Debug\net6.0\ServicioSocial.Contract.AssemblyInfoInputs.cache
+D:\Varios\ServicioSocial\Domain\ServicioSocial.Contract\obj\Debug\net6.0\ServicioSocial.Contract.AssemblyInfo.cs
+D:\Varios\ServicioSocial\Domain\ServicioSocial.Contract\obj\Debug\net6.0\ServicioSocial.Contract.csproj.CoreCompileInputs.cache
+D:\Varios\ServicioSocial\Domain\ServicioSocial.Contract\obj\Debug\net6.0\ServicioSocial.Contract.csproj.CopyComplete
+D:\Varios\ServicioSocial\Domain\ServicioSocial.Contract\obj\Debug\net6.0\ServicioSocial.Contract.dll
+D:\Varios\ServicioSocial\Domain\ServicioSocial.Contract\obj\Debug\net6.0\refint\ServicioSocial.Contract.dll
+D:\Varios\ServicioSocial\Domain\ServicioSocial.Contract\obj\Debug\net6.0\ServicioSocial.Contract.pdb
+D:\Varios\ServicioSocial\Domain\ServicioSocial.Contract\obj\Debug\net6.0\ref\ServicioSocial.Contract.dll

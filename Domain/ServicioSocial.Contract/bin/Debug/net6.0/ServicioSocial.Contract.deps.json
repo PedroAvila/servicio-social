@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ServicioSocial.Contract/1.0.0": {
+        "dependencies": {
+          "ServicioSocial.Entities": "1.0.0"
+        },
+        "runtime": {
+          "ServicioSocial.Contract.dll": {}
+        }
+      },
+      "ServicioSocial.Entities/1.0.0": {
+        "runtime": {
+          "ServicioSocial.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ServicioSocial.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServicioSocial.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

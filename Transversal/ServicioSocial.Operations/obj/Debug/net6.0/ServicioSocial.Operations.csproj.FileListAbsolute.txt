@@ -1,0 +1,12 @@
+D:\Varios\ServicioSocial\Transversal\ServicioSocial.Operations\bin\Debug\net6.0\ServicioSocial.Operations.deps.json
+D:\Varios\ServicioSocial\Transversal\ServicioSocial.Operations\bin\Debug\net6.0\ServicioSocial.Operations.dll
+D:\Varios\ServicioSocial\Transversal\ServicioSocial.Operations\bin\Debug\net6.0\ServicioSocial.Operations.pdb
+D:\Varios\ServicioSocial\Transversal\ServicioSocial.Operations\obj\Debug\net6.0\ServicioSocial.Operations.csproj.AssemblyReference.cache
+D:\Varios\ServicioSocial\Transversal\ServicioSocial.Operations\obj\Debug\net6.0\ServicioSocial.Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Varios\ServicioSocial\Transversal\ServicioSocial.Operations\obj\Debug\net6.0\ServicioSocial.Operations.AssemblyInfoInputs.cache
+D:\Varios\ServicioSocial\Transversal\ServicioSocial.Operations\obj\Debug\net6.0\ServicioSocial.Operations.AssemblyInfo.cs
+D:\Varios\ServicioSocial\Transversal\ServicioSocial.Operations\obj\Debug\net6.0\ServicioSocial.Operations.csproj.CoreCompileInputs.cache
+D:\Varios\ServicioSocial\Transversal\ServicioSocial.Operations\obj\Debug\net6.0\ServicioSocial.Operations.dll
+D:\Varios\ServicioSocial\Transversal\ServicioSocial.Operations\obj\Debug\net6.0\refint\ServicioSocial.Operations.dll
+D:\Varios\ServicioSocial\Transversal\ServicioSocial.Operations\obj\Debug\net6.0\ServicioSocial.Operations.pdb
+D:\Varios\ServicioSocial\Transversal\ServicioSocial.Operations\obj\Debug\net6.0\ref\ServicioSocial.Operations.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cyU5/g00sKNKGphjLDJ3y/w29r7049zw7w+/aX5fnyh1QUH4vdUVhnwqKCSQeSRvePTGWIneqCZnN6o4wzKb6Q==",
+  "success": true,
+  "projectFilePath": "D:\\Varios\\ServicioSocial\\Domain\\ServicioSocial.Services\\ServicioSocial.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\minim\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}

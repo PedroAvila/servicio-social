@@ -17,7 +17,7 @@ Microsoft.EntityFrameworkCore.SqlServer
 Microsoft.EntityFrameworkCore.Design
 Microsoft.EntityFrameworkCore.Tools
 
-##Para crea la db se debe ejecutar los siguientes comandos
+## Para crea la db se debe ejecutar los siguientes comandos
 Add-Migration NombreDeMigracion
 Update-Database
 

@@ -9,4 +9,3 @@ D:\Varios\ServicioSocial\Transversal\ServicioSocial.Operations\obj\Debug\net6.0\
 D:\Varios\ServicioSocial\Transversal\ServicioSocial.Operations\obj\Debug\net6.0\refint\ServicioSocial.Operations.dll
 D:\Varios\ServicioSocial\Transversal\ServicioSocial.Operations\obj\Debug\net6.0\ServicioSocial.Operations.pdb
 D:\Varios\ServicioSocial\Transversal\ServicioSocial.Operations\obj\Debug\net6.0\ref\ServicioSocial.Operations.dll
-D:\Varios\ServicioSocial\Transversal\ServicioSocial.Operations\obj\Debug\net6.0\ServicioSocial.Operations.csproj.AssemblyReference.cache

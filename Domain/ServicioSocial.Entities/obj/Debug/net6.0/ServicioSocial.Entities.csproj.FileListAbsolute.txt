@@ -9,4 +9,3 @@ D:\Varios\ServicioSocial\Domain\ServicioSocial.Entities\obj\Debug\net6.0\Servici
 D:\Varios\ServicioSocial\Domain\ServicioSocial.Entities\obj\Debug\net6.0\refint\ServicioSocial.Entities.dll
 D:\Varios\ServicioSocial\Domain\ServicioSocial.Entities\obj\Debug\net6.0\ServicioSocial.Entities.pdb
 D:\Varios\ServicioSocial\Domain\ServicioSocial.Entities\obj\Debug\net6.0\ref\ServicioSocial.Entities.dll
-D:\Varios\ServicioSocial\Domain\ServicioSocial.Entities\obj\Debug\net6.0\ServicioSocial.Entities.csproj.AssemblyReference.cache

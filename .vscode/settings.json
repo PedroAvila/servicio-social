@@ -1,3 +1,5 @@
 {
-  "dotnet.defaultSolution": "ServicioSocial.sln"
+  "dotnet.defaultSolution": "ServicioSocial.sln",
+  "appService.defaultWebAppToDeploy": "/subscriptions/a9ee8bd1-af57-4daa-9bd7-bd594cf25d82/resourceGroups/developer-friends/providers/Microsoft.Web/sites/serviciosocialservice",
+  "appService.deploySubpath": "."
 }

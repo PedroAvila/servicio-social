@@ -25,6 +25,11 @@ Add-Migration NombreDeMigracion
 
 Update-Database
 
+## La api se encuetra desplegada en azure
+https://serviciosocialservice.azurewebsites.net/swagger/index.html
+
+
+
 
 
 
